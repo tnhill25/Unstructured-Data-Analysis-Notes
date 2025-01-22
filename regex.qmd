@@ -136,7 +136,7 @@ lyrics_df['lyrics'].str.replace(r'^\s|\s$', ' ', regex=True)[2]
 ```{python}
 lyrics_df['lyrics'].str.replace(r'\[.*?\]', '', regex=True)[1]
 ```
-
+test
 ### Splitting Text
 
 ```{python}
