@@ -150,7 +150,7 @@ import pyarrow
 # Obs -- you'll need to import nltk.
 
 lyrics_pd = pd.read_feather(
-  '/Users/sberry5/Documents/teaching/UDA/code/lyrics_scrape_python/complete_lyrics_2025.feather'
+  '/Users/taylorhill/Desktop/complete_lyrics_2025.feather'
 )
 
 lyrics_pd.lyrics = lyrics_pd.lyrics.astype(str)
@@ -365,6 +365,9 @@ for i in range(len(link_list)):
     
 ```
 
+```{python}
+
+```
 
 ## String Distance And Similarity
 
