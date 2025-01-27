@@ -364,10 +364,7 @@ for i in range(len(link_list)):
     link_list[i] = ' '.join(link_list[i])
     
 ```
-
-```{python}
-
-```
+This was as far as I got because I was having error after error. I will keep messing with it to see what I can do.
 
 ## String Distance And Similarity
 
